@@ -1,5 +1,5 @@
-const int oddLEDs[] = {2, 4, 6, 8, 10}; 
-const int evenLEDs[] = {3, 5, 7, 9, 11}; 
+const int oddLEDs[] = {1, 3, 5, 7, 9}; 
+const int evenLEDs[] = {2, 4, 6, 8, 10}; 
 
 void setup() {
     for (int i = 0; i < 5; i++) {
