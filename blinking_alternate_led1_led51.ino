@@ -25,7 +25,7 @@ void loop()
     digitalWrite(i, LOW);
   }
 
-  delay(1000); 
+  delay(300); 
 
   for (int i = ilaw1; i <= ilaw5; i++) {
     digitalWrite(i, LOW);
